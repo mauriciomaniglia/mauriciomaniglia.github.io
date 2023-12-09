@@ -1,10 +1,9 @@
 ---
 title: Swift Runtime
-author: mauricio maniglia
-date: 2023-12-09 16:39:00 +0800
+author: Mauricio Maniglia
+date: 2023-12-08 10:00:00 +0800
 categories: [Swift]
-tags: [programming, tools, swift]
-render_with_liquid: false
+tags: [programming]
 ---
 ## Swift Runtime: A Technical Perspective in the Apple Ecosystem
 
