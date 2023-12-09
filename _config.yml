@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: My Blog # the main title
+title: Maurício Maniglia # the main title
 
-tagline: Random stuff about Apple and software engineering in general. # it will display as the sub-title
+tagline: Random stuff about Apple and computer science. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A blog about Apple and software engineering in general.
+  A blog about Apple and computer science in general.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -29,7 +29,7 @@ github:
   username: mauriciomaniglia # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: maumaniglia # change to your twitter username
 
 social:
   # Change to your full name.
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1286269845265362955/Gv3QUSw3_400x400.jpg
+avatar: https://avatars.githubusercontent.com/u/7022519?v=4
 
 # boolean type, the global switch for TOC in posts.
 toc: true
