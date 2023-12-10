@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Maurício Maniglia # the main title
+title: Apple Bits # the main title
 
 tagline: Random stuff about Apple and computer science. # it will display as the sub-title
 
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/7022519?v=4
+avatar: https://raw.githubusercontent.com/mauriciomaniglia/mauriciomaniglia.github.io/main/assets/apple-bits-logo.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
