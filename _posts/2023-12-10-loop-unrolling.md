@@ -17,20 +17,20 @@ Example
 
 Original loop:
 
-```
+````swift
 for i in 0..<4 {
     performAction(i)
 }
-```
+````
 
 Unrolled loop:
 
-```
+````swift
 performAction(0)
 performAction(1)
 performAction(2)
 performAction(3)
-```
+````
 
 ## Benefits of Loop Unrolling
 
